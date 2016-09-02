@@ -1,1 +1,1 @@
-#study python by david
+#learning python by david
